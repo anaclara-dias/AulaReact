@@ -4,7 +4,7 @@ export default function Exercicio2({peso, altura})
 
     return(
         <div>
-            Com base no seu peso: {peso} kg e sua altura: {altura}m seu IMC é: {calculo.toFixed(2)}
+            Com base no seu peso: {peso} kg e altura {altura} m seu IMC é: {calculo.toFixed(2)}
         </div>
     );
 }

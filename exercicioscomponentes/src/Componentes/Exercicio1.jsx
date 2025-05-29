@@ -4,7 +4,7 @@ export default function Exercicio1({fah})
 
     return(
         <div>
-            A conversao da sua temperatura: {fah} para Celsius {calculo}
+            A conversao da sua temperatura: {fah} para Celsius {calculo.toFixed(2)}
         </div>
     );
 }
