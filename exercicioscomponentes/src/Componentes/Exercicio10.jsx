@@ -4,7 +4,7 @@ export default function Exercicio10({valorHora, horasDia})
 
     return(
         <div>
-            Com base no seu valor por horas R${valorHora} e sua quantidade de horas trabalhadas R${horasDia} seu salario mensal é de R${salario.toFixed(2)};
+            Com base no seu valor por horas R${valorHora} e sua quantidade de horas trabalhadas {horasDia}horas seu salario mensal é de R${salario.toFixed(2)};
         </div>
     );
 }
