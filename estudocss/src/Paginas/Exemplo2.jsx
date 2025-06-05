@@ -12,4 +12,5 @@ export default function Exemplo2()
         </p>
     </div>
  )
+ 
 }
