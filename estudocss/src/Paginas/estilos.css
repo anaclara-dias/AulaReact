@@ -1,0 +1,30 @@
+.titulo
+{
+    color :aquamarine;
+    background-color:black;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.destaque
+{
+    font-weight: bold;
+    font-style: arial;
+    color: rgb(0, 0, 0);
+}
+
+.dest
+{
+    font-weight: bold;
+    font-style: italic;
+    color: aquamarine;
+}
+
+.exemplo2
+{
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(31, 88, 121);
+    
+}
