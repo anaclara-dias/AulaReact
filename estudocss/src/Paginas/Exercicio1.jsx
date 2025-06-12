@@ -11,7 +11,7 @@ export default function Exercicio1( {cor} )
     <div>
         <h2 style={border}> Exercicio 1</h2>
         <p>
-            Este paragrafo esta na cor <span style={{color : cor}}> </span>
+            Este paragrafo esta na cor <span style={{color : cor}}> {cor} </span>
         </p>
 
     </div>
