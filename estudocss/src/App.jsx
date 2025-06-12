@@ -20,7 +20,8 @@ export default function App(){
 
     <hr/>
 
-    <Exercicio1 />
+    <Exercicio1 cor="aquamarine"/>
+    <Exercicio1 cor="rgb(96,0,0)"/>
 
    
     </div>
