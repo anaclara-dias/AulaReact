@@ -1,4 +1,4 @@
-
+import "./estilos.css";
 
 export default function Exemplo2()
 {
